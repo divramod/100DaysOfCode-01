@@ -1,0 +1,14 @@
+{
+  "name": "001",
+  "version": "0.0.1",
+  "description": "- https://electronjs.org/docs/tutorial/first-app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.5"
+  }
+}
